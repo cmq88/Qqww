@@ -1,6 +1,0 @@
-python-telegram-bot==13.7
-yt-dlp==2023.12.30
-asyncio
-python-dotenv
-
-
