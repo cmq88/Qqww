@@ -1,2 +1,6 @@
-python-3.9.18
+python-telegram-bot==13.7
+yt-dlp==2023.12.30
+asyncio
+python-dotenv
+
 
